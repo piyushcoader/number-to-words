@@ -41,6 +41,3 @@ function numToWords(num, places){
 
   return currentPlacesText;
 }
-
-
-console.log(convertNumberToWords(438237764));
