@@ -1,0 +1,22 @@
+{
+  "name": "number-to-word",
+  "version": "1.0.0",
+  "description": "number to word convertor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyushcoader/number-to-words.git"
+  },
+  "keywords": [
+    "number_to_words"
+  ],
+  "author": "piyush",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/piyushcoader/number-to-words/issues"
+  },
+  "homepage": "https://github.com/piyushcoader/number-to-words#readme"
+}
