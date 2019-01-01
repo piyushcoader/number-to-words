@@ -41,3 +41,5 @@ function numToWords(num, places){
 
   return currentPlacesText;
 }
+
+module.exports.convertNumberToWords = convertNumberToWords;
